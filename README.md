@@ -43,7 +43,7 @@ adapter = new ViewableListAdapter<>(<CONTEXT>, <LIST OF MODELS>);
 Now you have your ViewableListAdapter ready to be set to your list view.
 
 ## Notice
-Copyright 2015 XLR8 Ventures Inc.
+Copyright 2015
 
 ## License
 Licensed under the Apache License, Version 2.0 (the "License");
